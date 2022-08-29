@@ -48,8 +48,7 @@ from holoviews import dim, opts
 
 # In[3]:
 
-
-db = pd.read_excel('fusione5.xlsx', index_col='Unnamed: 0', dtype={'Year': int})
+db = pd.read_excel(join(dirname(__file__), 'data/fusione5.xlsx', index_col='Unnamed: 0', dtype={'Year': int})
 db
 
 
@@ -408,8 +407,8 @@ time_series_figure = pn.Column(column_prod_share,# country1,
 
 
 ## Import Lollipop
-fname = "Lollipop_html.html"
-html_file = open(fname, 'r', encoding='utf-8')
+fname = "data/Lollipop_html.html"
+html_file = open(join(dirname(__file__), fname, 'r', encoding='utf-8')
 source_code = html_file.read() 
 lollipop = pn.pane.HTML(source_code)
 lollipop
@@ -422,7 +421,7 @@ lollipop
 # Add all plot together into an interactive dashboard
 template = pn.template.MaterialTemplate(
             title = 'Did Kyoto Protocol have effects on renewable production over the years?',
-            sidebar=[pn.pane.PNG('KyotoProtocol.png',
+            sidebar=[pn.pane.PNG((join(dirname(__file__),'data/KyotoProtocol.png'),
                                  width = 300, height = 300, align = 'center'
                                 ),
                      pn.pane.Markdown('The Kyoto Protocol is an international treaty signed and ratified by 192 country all over the world. It’s considered the first and most important agreement to reduce greenhouse gas emissions that are linked to global warming. The Kyoto Protocol was adopted on 11 December 1997 but officially entered into force on 16 February 2005 when 55 Nations, representing at least 55% of gas emissions, ratified the treaty. It’s first part finished at 2012 but was extended to 2020, thanks to Doha Agreement. The aim was to drop the percentage of gas emissions compared with 1990’s gas emissions for each country and the results had to be achieved at any level (energetic industry, transportation, manufacturing industry, etc…). So the Kyoto Protocol represents the first way to change world habits to a more sustainable life where energy is produced thanks to low-carbon emissions materials. For the energy level the EU-ET^1 play an import role for decrease and monitor gas emissions.  Here we consider the 38 Country with most high HDI^2 () which signed the Kyoto Protocol.'
