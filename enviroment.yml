@@ -8,3 +8,5 @@ dependencies:
   - requests
   - pathlib
   - tornado<6  
+  - pip:
+    - jupyter-server-proxy
