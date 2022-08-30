@@ -1,12 +1,12 @@
 dependencies:
   - nbserverproxy
-  - pyviz::param=1.9.0
-  - pyviz::pyviz_comms=0.7.2
-  - pyviz::datashader
   - bokeh::bokeh
-  - pyviz::panel=0.5.1
+  - panel::panel=0.12.1
   - requests
   - pathlib
+  - pandas
+  - holoviews
+  - hvplot
   - tornado<6  
   - pip:
     - jupyter-server-proxy
