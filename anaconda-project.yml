@@ -14,17 +14,17 @@ dependencies: &deps
   - pyviz_comms ==0.7.2
   - datashader ==0.7.0
   - bokeh ==1.1.0
-  - panel ==0.5.1
+  - panel ==0.12.1
   - tornado <6
 
 packages: *deps
 
 commands:
   dashboard:
-    unix: panel serve Dashboard_Plot&Export.ipynb
+    unix: panel serve Dashboard_Plot&Export_Test.ipynb
     supports_http_options: true
   notebook:
-    notebook: Dashboard_Plot&Export.ipynb
+    notebook: Dashboard_Plot&Export_Test.ipynb
   test:
     unix: pytest --nbsmoke-run -k *.ipynb --ignore envs
     windows: pytest --nbsmoke-run -k *.ipynb --ignore envs
