@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TStrada/Dataviz/blob/39df1ad03afa7845d1aee18b832b7405f528c6c2/Images/Music.jpg" width="60%">
+  <img src="bokeh-app/data/KyotoProtocol.png" width="45%">
 </p>
   <h6 align="center">a Data Visualization Project</h6>
 <p align="center">
@@ -12,15 +12,15 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 Did Kyoto Protocol have effect on country renewable production?
-Let explore same data and visualize the renewable production changes of 32 countries with the highest HDI level. 
+Let explore some data and visualize the renewable production changes of the 32 countries with the highest HDI level. 
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-You can find the dataset here: <a href="https://github.com/TStrada/Data-Management/tree/main/Dataset">Dataset</a> folder.<br> 
+You can find the dataset here: <a href="https://github.com/TStrada/Data-Management/tree/main/bokeh-app/data">Dataset</a> folder.<br> 
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find a detailed presentation here: <a href="https://github.com/TStrada/Data-Management/tree/main/Report">Report</a> folder.<br>
+You can find a detailed presentation here: <a href="https://github.com/TStrada/Dataviz/blob/fe7bdf319860d4bf5ff1d0b5ad775339ef9fdcd6/DATAVIZ.pptx">Report</a> folder.<br>
 
 
 <a name="aboutus"></a>
