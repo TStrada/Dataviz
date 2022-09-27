@@ -16,11 +16,11 @@ Let explore some data and visualize the renewable production changes of the 32 c
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-You can find the dataset here: <a href="https://github.com/TStrada/Data-Management/tree/main/bokeh-app/data">Dataset</a> folder.<br> 
+You can find the dataset here: <a href="https://github.com/TStrada/Dataviz/tree/main/bokeh-app/data">Dataset</a> folder.<br> 
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find a detailed presentation here: <a href="https://github.com/TStrada/Dataviz/blob/fe7bdf319860d4bf5ff1d0b5ad775339ef9fdcd6/DATAVIZ.pptx">Report</a> folder.<br>
+Here you can find a detailed presentation <a href="https://github.com/TStrada/Dataviz/blob/fe7bdf319860d4bf5ff1d0b5ad775339ef9fdcd6/DATAVIZ.pptx">Report</a> folder.<br>
 
 
 <a name="aboutus"></a>
