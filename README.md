@@ -13,7 +13,7 @@
 ## &#9741; &nbsp; Overview
 Did Kyoto Protocol have effect on country renewable production?
 Let explore some data and visualize the renewable production changes of the 32 countries with the highest HDI level. 
-Visit <a href="https://emayhob.wixsite.com/data-viz/viz-tre">site</a> for bokeh dashboard.
+You can visit this <a href="https://emayhob.wixsite.com/data-viz/viz-tre">site</a> for bokeh dashboard.
 Instead if you want a more interactive dashboard run <a href="https://github.com/TStrada/Dataviz/tree/main/bokeh-app/Main.ipynb">notebook</a> notebook.<br>  
 
 <a name="data"></a>
