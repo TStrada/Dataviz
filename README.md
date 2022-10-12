@@ -22,7 +22,7 @@ You can find the dataset here: <a href="https://github.com/TStrada/Dataviz/tree/
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-Here you can find a detailed presentation <a href="https://github.com/TStrada/Dataviz/blob/fe7bdf319860d4bf5ff1d0b5ad775339ef9fdcd6/DATAVIZ.pdf">Report</a> folder.<br>
+Here you can find a detailed presentation <a href="https://github.com/TStrada/Dataviz/blob/main/DATAVIZ.pdf">Report</a> folder.<br>
 
 
 <a name="aboutus"></a>
