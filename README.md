@@ -35,6 +35,7 @@ Here you can find a detailed presentation <a href="https://github.com/TStrada/Da
 <br>
 
 <p align = "center">
+<a href = "https://linkedin.com/in/TommasoStrada"><img src="https://github.com/TStrada/TStrada/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
   <a href = "https://github.com/TStrada"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 
